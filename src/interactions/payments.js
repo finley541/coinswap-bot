@@ -22,8 +22,9 @@ module.exports = {
     LTC: MPX5qDuNNr6GNzHwgyXUFfoyTHfBDw43ha
     BCH: qzg82p8fnfyy8y3hx5n4z2z957n5rda8dc2dq0ag9l
     
-    For any other addresses, please ask @Razr#7315!
+    For any other addresses, please feel free to ask @Razr#7315!
     
-    PAYPAL __**MUST**__ BE SENT AS F&F! G&S WILL NOT BE ACCEPTED AND THE PRODUCT WILL NOT BE GIVEN, WE WILL REFUND YOU (CBP System)`);
+    PAYPAL __**MUST**__ BE SENT AS F&F! G&S WILL NOT BE ACCEPTED AND THE PRODUCT WILL NOT BE GIVEN, WE WILL REFUND YOU!
+    For PayPal transactions, please put your Discord name and tag. e.g. Razr#7315`);
   },
 };
